@@ -1,2 +1,0 @@
-# MMReactTesting
-Created with CodeSandbox
